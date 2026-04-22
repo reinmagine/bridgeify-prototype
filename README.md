@@ -6,7 +6,7 @@
 - Joshua Castro: Project Manager, Team-Lead  
 - Zyrhone Castillo: Project Manager, Documentation
 - Hannah Laggui: Project Manager, Documentation
-- Ludrein Salvador: Project Manageger, UI/UX Designer, Documentation
+- Ludrein Salvador: Project Manager, UI/UX Designer, Documentation
 
 ---
 
